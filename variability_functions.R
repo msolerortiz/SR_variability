@@ -40,7 +40,7 @@ char_and_add_zero <-function(value) {
 }
 
 #using year-month-day-hour we can find the files where the data sought might be.
-#this function creates
+#this function creates a search pattern to be used by other functions.
 get_search_pattern_from_datetime <- function(date) {
   #file_name is arrival date, date must be shifted backwards 30 minutes.
   date = date + minutes(30)
