@@ -1,4 +1,4 @@
-# ToDoTitle
+# SR_variability
 
 [![DOI](https://zenodo.org/badge/523433378.svg)](https://zenodo.org/badge/latestdoi/523433378)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
