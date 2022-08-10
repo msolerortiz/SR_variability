@@ -1,3 +1,18 @@
+######### SETUP ####
+# Package names
+packages <- c("xts", "chron", "zoo", "imputeTS", "gridExtra", "slider", "cowplot",
+              "astsa", "vars", "forecast", "R.matlab", "ggplot2", "tsibble",
+              "feasts","seasonal", "lubridate", "dplyr", "tidyr", "tibbletime",
+              "fpp3", "viridis", "stringr", "twosamples", "purrr", "Matching", "pander")
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+# Packages loading""
+invisible(lapply(packages, library, character.only = TRUE))
 
 ######### DATA CONFIG ####
 
