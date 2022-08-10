@@ -1,6 +1,6 @@
 # ToDoTitle
 
-[![DOI](https://zenodo.org/badge/ToDo.svg)](https://zenodo.org/badge/latestdoi/ToDo)
+[![DOI](https://zenodo.org/badge/523433378.svg)](https://zenodo.org/badge/latestdoi/523433378)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Code for processing the data of the article ***Quantifying Schumann resonances' variation over time through statistical differences*** implemented using the [R language](https://www.r-project.org/).
