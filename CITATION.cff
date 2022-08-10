@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Quantifying Schumann resonances' variation over time through statistical differences"
+type: software
+authors:
+  - family-names: Soler-Ortiz
+    given-names: Manuel
+    email: msolerortiz@ual.es
+    affiliation: University of Almeria
+    orcid: 'https://orcid.org/0000-0003-2048-2062'
+  - given-names: Nuria
+    family-names: Novas Castellano
+    orcid: 'https://orcid.org/0000-0001-8980-6163'
+    email: nnovas@ual.es
+    affiliation: University of Almeria
+  - given-names: Manuel
+    family-names: Fernandez Ros
+    email: mfernandez@ual.es
+    orcid: 'https://orcid.org/0000-0002-1961-1958'
+    affiliation: University of Almeria
+  - given-names: Jose Antonio
+    family-names: Gázquez Parra
+    email: jgazquez@ual.es
+    affiliation: University of Almeria
+    orcid: 'https://orcid.org/0000-0002-2605-7692'
+doi: ToDo/zenodo.ToDo
+license: MIT
